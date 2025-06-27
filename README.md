@@ -66,7 +66,7 @@ Android's **Picture-in-Picture (PiP)** API is used to allow users to continue wa
 ### How to Build and Run
 
 ```bash
-git clone https://github.com/yourusername/vyorius-rtsp-app.git
+git clone https://github.com/Prashid2002/vyorius-rtsp-app.git
 cd vyorius-rtsp-app
 
 
