@@ -1,4 +1,4 @@
-# 📺 Vyorius RTSP Streaming App
+# 📺 RTSP Streaming App
 
 Vyorius is an Android application that allows users to stream RTSP video using the VLC media player library. It also supports Picture-in-Picture (PiP) mode for multitasking while watching live streams. The app offers a simple UI and smooth streaming experience.
 
